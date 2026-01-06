@@ -1,12 +1,12 @@
-A B2B SaaS startup offers project‑management software on monthly and annual subscriptions. Management is worried about rising customer churn and wants to:
+# A B2B SaaS startup offers project‑management software on monthly and annual subscriptions. Management is worried about rising customer churn and wants to:
 
-1)Measure churn and revenue impact accurately
+## 1)Measure churn and revenue impact accurately
 
-2)Understand key drivers of churn
+##2)Understand key drivers of churn
 
-3)Build a model to flag at‑risk customers for retention campaigns.
+##3)Build a model to flag at‑risk customers for retention campaigns.
 
-A customer is considered churned in month t if:
+# A customer is considered churned in month t if:
 
 (1) their subscription is cancelled/expired with no renewal, or
 
